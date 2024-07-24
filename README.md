@@ -1,6 +1,6 @@
-## ATM_Simulator_System_(Bank_Management_System)
+## Bank_Management_System_(ATM_Simulator_System)
 
-**This Java project is an ATM simulator system that functions similarly to a real ATM. It provides various functionalities such as opening a bank account, depositing money, withdrawing money, viewing a mini statement, changing PIN, etc.**
+**This Java project is a bank management system that includes an ATM simulator, functioning similarly to a real ATM. It provides various functionalities such as opening a bank account, depositing money, withdrawing money, viewing a mini statement, changing PIN, etc.**
 
 **Features**
 

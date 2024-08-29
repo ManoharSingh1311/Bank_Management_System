@@ -10,7 +10,7 @@
 
 3. **Withdrawal:** Users can withdraw money from their bank account.
 
-4. **Mini Statement:** Users can view a mini statement that shows recent transactions.
+4. **Mini Statement:** Users can  view a mini statement that shows recent transactions.
 
 5. **Pin Change:** Users can change their PIN (Personal Identification Number) for account security.
 
